@@ -14,6 +14,7 @@ void main(void)
 	while(1)
 	{
 		max = Max(a, b);
+		min = Min(a, b);
 	}
 	
 	return;
