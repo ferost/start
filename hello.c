@@ -22,3 +22,8 @@ static int Max(int a, int b)
 {
 	return (a > b ? a : b);	
 }
+
+static int Min(int a, int b)
+{
+	return (a < b ? a : b);	
+}
