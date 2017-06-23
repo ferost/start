@@ -7,6 +7,7 @@ static int Min(int a, int b);
 void main(void)
 {
 	int max, min, a = 1, b = 2;
+	inc counter = 0;
 	
 	printf("hello world");
 	
