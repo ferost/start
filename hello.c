@@ -2,6 +2,7 @@
 #define MAX_INT		0x7FFFFFFF
 
 static int Max(int a, int b);
+static int Min(int a, int b);
 
 void main(void)
 {
